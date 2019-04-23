@@ -14,3 +14,7 @@
   
   
 Maybe we need to change side project name ,two choice we can get : hopper(料斗,喂料口  appearance like hope) or funnel(漏斗  appearance like funny).
+
+
+
+![Framework and Task Assignment](https://github.com/dejavulab/Aspirin/blob/master/Aspirin.png)
